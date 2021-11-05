@@ -7,7 +7,7 @@ Para más información, ver el árticulo de Marcelo Rovai [[1]](https://towardsd
 
 Cambios menores:
 - Se utilizaron los últimos datos de siniestros del CONASET [[2]](https://mapas-conaset.opendata.arcgis.com/datasets/3a084373b58b45d0ae01d9c14a231cf8_0); 
-- Se usó un GeoPackage para dismunuir el peso de los datos espaciales;
+- Se usó un GeoPackage para disminuir el peso de los datos espaciales;
 - Se agregó la infraestructura necesaria para que el código sea 100% distribuible. Para esto, se creó una imagen Docker. 
 
 Requerimientos: [Docker](https://docs.docker.com/get-docker/).
